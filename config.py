@@ -1,2 +1,2 @@
-AWS_BUCKET_NAME = "diamond"
-AWS_REGION = "eu-north-1a"  # e.g., us-east-1
+AWS_BUCKET_NAME = "diamondimgs"
+AWS_REGION = "ap-south-1"  # e.g., us-east-1
